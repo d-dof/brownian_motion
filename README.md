@@ -1,5 +1,7 @@
 # brownian_motion
 Simple check for theorems about Brownian Motion.
+![sample_paths](./10_sample_paths.png)
+
 - python ver. 3.8.3
 
 ## Easy setup
@@ -7,4 +9,4 @@ Simple check for theorems about Brownian Motion.
 or
 `pip install -r requirements.txt`
 
-![sample_paths](./10_sample_paths.png)
+
